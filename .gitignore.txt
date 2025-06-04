@@ -1,0 +1,34 @@
+# Ignore pastas de checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários e caches do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente virtual
+venv/
+.env/
+.envrc
+*.env
+
+# Arquivos do Jupyter que não precisam ser versionados
+*.nbconvert.ipynb
+
+# Editor/IDE (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
