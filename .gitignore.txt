@@ -1,5 +1,6 @@
 # Ignore pastas de checkpoints do Jupyter
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 
 # Arquivos temporários e caches do Python
 __pycache__/
